@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../cse110-fa22-group3-2"
+		},
+		{
+			"path": "../../Lab6_Starter"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lab8_Starter"
+	}
+}
